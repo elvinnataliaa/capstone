@@ -21,7 +21,7 @@
         <!-- Left Section with Background Image -->
         <div class="left-section">
             <div class="text-white position-relative text-center p-4">
-                <h2 class="display-5 fw-bold mb-4">Welcome to U-PSN</h2>
+                <h2 class="display-5 fw-bold mb-4">Welcome to ELVIN</h2>
                 <p class="lead">Your trusted pharmaceutical network</p>
             </div>
         </div>
